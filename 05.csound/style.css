@@ -1,0 +1,23 @@
+
+body {
+  font-family: sans-serif;
+}
+
+#run {
+
+}
+
+#run:active {
+  color: red;
+}
+
+
+#console {
+  font-family: serif;
+  white-space: pre;
+  width: 400px;
+  height: 400px;
+  overflow-y: scroll;
+  border-radius: 10px;
+  margin-left: 20px;
+}

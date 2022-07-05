@@ -1,0 +1,25 @@
+
+h1 {
+  color: red;
+  background-color: black;  
+}
+
+#one {
+  position: absolute;
+  left: 400px;
+  top: 400px;
+  width: 100px;
+  height: 100px;
+  color: yellow;
+  background-color: blue;
+}
+
+#two {
+  position: absolute;
+  left: 200px;
+  top: 200px;
+  width: 100px;
+  height: 100px;
+  color: yellow;
+  background-color: red;
+}
